@@ -1,0 +1,271 @@
+body{
+	background-color: #f7f8f8;
+}
+.yinxiongziliao{
+	width: 1240px;
+	height: 1100px;
+	margin: 50px auto;
+	position: relative;
+}
+.yinxiong_1{
+	width: 100%;
+	height: 93px;
+	padding-top: 28px;
+}
+.fangwu{
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #000;
+}
+.fangwu:hover{
+	text-decoration: underline;
+}
+.fangwu2{
+	margin-left: 10px;
+	color: #000;
+}
+.fangwu2:hover{
+	text-decoration: underline;
+}
+.yinxiong_2{
+	width: 160px;
+	height: 53px;
+	background-color: #fff;
+	text-align: center;
+	line-height: 53px;
+	border-top: 4px solid #00A383;
+	float: left;
+}
+.yinxiong_3{
+	width: 160px;
+	height: 53px;
+	background-color: #f0f0f0;
+	text-align: center;
+	line-height: 53px;
+	border-top: 4px solid #d7d7d7;
+	float: left;
+}
+.yinxiong_4{
+	width: 760px;
+	height: 53px;
+	background-color: #f0f0f0;
+	border-top: 4px solid #d7d7d7;
+	float: left;
+}
+/* .yinxiong_2_wenzi{
+	color: #00A383;
+} */
+.yinxiong_2_wenzi2{
+	color: #000;
+}
+.showbox{
+	position: absolute;
+	left: 0;
+	top: 94px;
+	width: 1240px;
+	height: 950px;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 53px;
+	padding: 30px 37px 30px 30px;
+}
+.yinxiong_top{
+	margin-bottom: 40px;
+}
+.showbox input{
+	margin-left: 15px;
+}
+.yonghu{
+	display: block;
+	float: right;
+	width: 220px;
+	height: 35px;
+}
+.yinxiong_tou{
+	width: 90px;
+	height: 100px;
+	float: left;
+	text-align: center;
+	position: relative;
+}
+.yidong{
+	width:400px;
+	height: 230px;
+	background-color: #000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: rgba(0,0,0,0.7);
+	z-index: 88;
+	border-radius: 20px;
+	display: none;
+	padding: 20px;
+}
+.yidong h1{
+	margin: 0;
+	font-size: 30px;
+	color: green;
+	float: left;
+}
+.yidong h2{
+	margin: 0;
+	font-size: 18px;
+	font-weight: 500;
+	color: #ff6700;
+	float: left;
+}
+.yidong h3{
+	margin: 0;
+	font-size: 20px;
+	font-weight: 400;
+	margin-top: 60px;
+	margin-right: 250px;
+	color: #fff;
+}
+.yidong h4{
+	color: #fff;
+	font-size: 15px;
+	font-weight: 300;
+	margin-top: 10px;
+	margin-right:130px;
+}
+.yidong h5{
+	color: #fff;
+	font-size: 15px;
+	font-weight: 300;
+	margin-top: 10px;
+	margin-left: 4px;
+}
+
+.wujing_tp{
+	display: block;
+	float: left;
+}
+.yinxiong_beijing{
+	width: 66px;
+	height: 65px;
+	background-color: #0a6d5d;
+	position: absolute;
+	opacity: 0;
+	text-align: center;
+	line-height: 65px;
+}
+.yinxiong1{
+	width: 66px;
+	height: 65px;
+	display: block;
+	margin-left: 12px;
+	position: absolute;
+}
+.yinxiong99{
+	width: 66px;
+	height: 65px;
+	display: block;
+	position: absolute;
+}
+.yinxiong_fangda{
+	width: 66px;
+	height: 65px;
+	position: relative;
+	background-color: red;
+	margin-left: 12px;
+}
+.yinxiong_fangda:hover .yinxiong_beijing{
+	opacity: 0.8;
+}
+/* .yinxiong_3:hover{
+	background-color: #fff;
+	border-top: 4px solid #00A383;
+}
+.yinxiong_3:hover .yinxiong_2_wenzi2{
+	color: #00A383;
+} */
+.yinxiong_name{
+	font-size: 15px;
+	display: block;
+	margin-top: 68px;
+	color: red;
+}
+.yinxiong_name2{
+	font-size: 15px;
+	display: block;
+}
+.yinxiong_beijing i{
+	width: 50px;
+	height: 50px;
+}
+.showbox1{
+	width: 1173px;
+	height: 853px;
+	background-color: pink;
+	position: absolute;
+	top: 61px;
+	left: 30px;
+}
+.zhungbei_dingwei{
+	width: 1173px;
+	height: 853px;
+	background-color: pink;
+	position: absolute;
+	top: 61px;
+	left: 30px;
+}
+.yinxiong_tou span{
+	font-size: 14px;
+}
+.jineng1{
+	width: 520.53px;
+	height: 396px;
+	border-right: 1px solid #F0F0F0;
+	float: left;
+	padding-top: 30px;
+	padding-left: 16px;
+}
+.jineng2{
+	width: 625.5px;
+	height: 437.4px;
+	padding-left: 40px;
+	padding-top: 30px;
+	float: left;
+	position: absolute;
+	top: 30px;
+	left: 520.53px;
+	background-color: pink;
+}
+.jineng3{
+	width: 90px;
+	height: 100px;
+	float: left;
+	text-align: center;
+}
+.pingzhang{
+	display:block;
+	margin: 0 auto;
+}
+.pingzhang2{
+	display: block;
+	float: left;
+}
+.pingzhangwenzi2{
+	display: block;
+	float: left;
+	margin-left: 20px;
+	margin-top: 5px;
+	font-weight: 700;
+	color:  #00A383;
+}
+.pingzhangwenzi3{
+	display: block;
+	margin-top: 35px;
+	margin-left: 82px;
+	color: #9A9A9A;
+}
+.jineng2 h1{
+	font-size: 15px;
+	margin-top: 25px;
+	font-weight: 500;
+}
+.pingzhangtp{
+	display: block;
+	margin-top: 20px;
+}
